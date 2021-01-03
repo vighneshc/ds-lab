@@ -50,7 +50,7 @@ void push()
 {
     if(top>=n-1)
     {
-        printf("stack is over flow\n");
+        printf("stack overflow\n");
         
     }
     else
@@ -65,7 +65,7 @@ void pop()
 {
     if(top<=-1)
     {
-        printf( "Stack is under flow");
+        printf( "Stack underflow");
     }
     else
     {
