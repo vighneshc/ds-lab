@@ -21,7 +21,7 @@ int main()
         int choice;
         while(1){
                
-                printf("\n***MENU***\n");
+                
                 printf("\n 1. Create a list");
                 printf("\n 2. Display the list");
                 printf("\n 3. Insert node at the beginning");
