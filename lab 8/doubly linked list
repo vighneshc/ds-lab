@@ -15,7 +15,7 @@ void main ()
 int choice =0;  
     while(choice != 9)  
     {  
-        printf("\n***Menu***\n");  
+        
         printf("\n1.Insert at the beginning \n2.Delete from any specified location\n3.Display\n4.Exit\n");  
         printf("\nEnter your choice: \n");  
         scanf("\n%d",&choice);  
