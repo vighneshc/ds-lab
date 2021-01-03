@@ -248,7 +248,7 @@ void main()
  while(1)
  {
  
-  printf("\n***MENU***\n");
+  
   printf("\n1.Sort\n2.Reverse\n3.Concatenate\n4.Display\n5.Stack (Push)\n6.Stack (Pop)\n7.Stack (Display)\n8.Queue (Enqueue)\n9.Queue (Dequeue)\n10.Queue (Display)\n11.Exit\n");
   printf("Enter choice:\n");
   scanf("%d",&ch);
